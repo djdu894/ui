@@ -458,7 +458,7 @@ Open.MouseButton1Click:Connect(function()
   Open.Image = Main.Visible and "rbxassetid://7733798747" or "rbxassetid://7733798747" --开关的图
 end)
 
-UICorner_2.CornerRadius = UDim.new(0, 90)
+UICorner_2.CornerRadius = UDim.new(0, 40)
 UICorner_2.Parent = Open
 UIG.Parent = Open
       
