@@ -446,7 +446,7 @@ UICorner.CornerRadius = UDim.new(0, 90)
 UICorner.Parent = Frame
 
 Open.Parent = Frame
-Open.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Open.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
 Open.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Open.BorderSizePixel = 0
 Open.Size = UDim2.new(2, 5, 2, 5)
