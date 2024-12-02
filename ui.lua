@@ -473,7 +473,7 @@ UIG.Parent = Open
         Tab.Name = "Tab"
         Tab.Parent = TabMain
         Tab.Active = true
-        Tab.BackgroundColor3 = Color3.fromRGB(100, 0, 100)
+        Tab.BackgroundColor3 = Color3.fromRGB(139, 0, 255)
         Tab.BackgroundTransparency = 1.000
         Tab.Size = UDim2.new(1, 0, 1, 0)
         Tab.ScrollBarThickness = 2
@@ -483,7 +483,7 @@ UIG.Parent = Open
         TabIco.Parent = TabBtns
         TabIco.BackgroundTransparency = 1.000
         TabIco.BorderSizePixel = 0
-        TabIco.Size = UDim2.new(0, 10, 0, 10)
+        TabIco.Size = UDim2.new(0, 24, 0, 24)
         TabIco.Image = "rbxassetid://7733798747" or icon and "rbxassetid://"..icon
         TabIco.ImageTransparency = 0.2
         
